@@ -4,32 +4,6 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en-ZZ"/>
   <body>
 <!-- Default translations -->
-    <tu>
-      <tuv lang="en-ZZ">
-        <seg>Foo.</seg>
-      </tuv>
-      <tuv lang="es-ES" changeid="souto" changedate="20220223T190113Z" creationid="souto" creationdate="20220223T190052Z">
-        <seg>b</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-ZZ">
-        <seg>Start.</seg>
-      </tuv>
-      <tuv lang="es-ES" changeid="souto" changedate="20220223T190051Z" creationid="souto" creationdate="20220223T190051Z">
-        <seg>a</seg>
-      </tuv>
-    </tu>
 <!-- Alternative translations -->
-    <tu>
-      <prop type="file">alt_id_example.xlf</prop>
-      <prop type="id">6c9ca1bfeeff070_0</prop>
-      <tuv lang="en-ZZ">
-        <seg>Foo.</seg>
-      </tuv>
-      <tuv lang="es-ES" changeid="souto" changedate="20220223T190122Z" creationid="souto" creationdate="20220223T190122Z">
-        <seg>c</seg>
-      </tuv>
-    </tu>
   </body>
 </tmx>
