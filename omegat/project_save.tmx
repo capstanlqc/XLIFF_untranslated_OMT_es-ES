@@ -4,14 +4,6 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="paragraph" srclang="en-ZZ"/>
   <body>
 <!-- Default translations -->
-    <tu>
-      <tuv lang="en-ZZ">
-        <seg>Hello world!</seg>
-      </tuv>
-      <tuv lang="es-ES" changeid="souto" changedate="20220223T184341Z" creationid="souto" creationdate="20220223T184341Z">
-        <seg>¡Hola mundo!</seg>
-      </tuv>
-    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
