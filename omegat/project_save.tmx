@@ -12,14 +12,6 @@
         <seg>Hola mundo!</seg>
       </tuv>
     </tu>
-    <tu>
-      <tuv lang="en-ZZ">
-        <seg>How are you?</seg>
-      </tuv>
-      <tuv lang="es-ES" changeid="souto" changedate="20220224T072818Z" creationid="souto" creationdate="20220224T072818Z">
-        <seg>Hola</seg>
-      </tuv>
-    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
